@@ -1,0 +1,32 @@
+[
+  {
+    "id": "burgers",
+    "name": "burgers",
+    "image": "assets/categories/burgers.svg"
+  },
+  {
+    "id": "desserts",
+    "name": "desserts",
+    "image": "assets/categories/desserts.svg"
+  },
+  {
+    "id": "drinks",
+    "name": "drinks",
+    "image": "assets/categories/drinks.svg"
+  },
+  {
+    "id": "meals",
+    "name": "meals",
+    "image": "assets/categories/meals.svg"
+  },
+  {
+    "id": "salads",
+    "name": "salads",
+    "image": "assets/categories/salads.svg"
+  },
+  {
+    "id": "snacks",
+    "name": "snacks",
+    "image": "assets/categories/snacks.svg"
+  }
+]

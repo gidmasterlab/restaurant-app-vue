@@ -1,0 +1,55 @@
+$primary-color: #e84c4f;
+$secondary-color: #fef6ed;
+$accent-color: #eda345;
+
+$text-primary: #3e4462;
+$text-secondary: #8b8fa1;
+$text-light: #ffffff;
+$text-accent: #e84c4f;
+
+$success: #297809;
+
+$background-primary: #ffffff;
+$background-secondary: #3e4462;
+$background-accent: #fef6ed;
+
+$divider: #ecedf0;
+$input: #ecedf0;
+$placeholder: #b2b4c0;
+$disabled: #b2b4c0;
+
+// limit desktop width for laptop and large displays
+$screen-max-width: 1153px;
+
+// left/right section margin (container on page sides)
+$screen-margin-desktop: 0;
+$screen-margin-mobile: 20px;
+
+// gutter (space between sections, used to give margin to top/bottom)
+$gutter-desktop: 60px;
+$gutter-mobile: 30px;
+
+// gap (space between objects, used to give margin to left/right and separete objects)
+$gap-desktop: 30px;
+$gap-mobile: 20px;
+
+// gap between texts
+$gap-text-desktop: 10px;
+$gap-text-mobile: 10px;
+
+// toolbar (menu)
+$toolbar-desktop: 86px;
+$toolbar-mobile: 64px;
+
+// controllers, such as, button, dropdown, input, etc..
+$controller-height: 48px;
+$controller-padding: 20px;
+$controller-gap: 10px;
+$controller-radius: 6px;
+
+// position of layers respecting hierarchy
+$position-index-shapes: 1;
+$position-index-list: 2;
+$position-index-toolbar: 3;
+$position-index-backdrop: 4;
+$position-index-modal: 5;
